@@ -4,7 +4,7 @@
 
 ## Install
 
-You can either [download](https://github.com/lipis/flag-icons/archive/main.zip) the whole project as is or install it via npm or Yarn:
+You can either [download](https://github.com/Zh4ckz/flag/archive/refs/heads/main.zip) the whole project as is or install it via npm or Yarn:
 
 ```bash
 npm install flag-icons
@@ -25,7 +25,7 @@ or use CDN:
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/css/flag-icons.min.css"
+  href=""
 />
 ```
 
@@ -82,5 +82,5 @@ To have only specific countries in the css file, remove the ones that you don't 
 
 ## Credits
 
-- This project wouldn't exist without the awesome and now deleted collection of SVG flags by [koppi](https://github.com/koppi).
-- Thank you [Andrejs Abrickis](https://twitter.com/andrejsabrickis) for providing the `flag-icons` name on [npm](https://www.npmjs.com/package/flag-icons).
+- This project wouldn't exist without the awesome and now deleted collection of SVG flags).
+- Thank you for providing the `flag-icons` name on [npm](https://www.npmjs.com/package/flag-icons).
